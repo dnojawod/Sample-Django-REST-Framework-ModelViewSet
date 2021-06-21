@@ -1,1 +1,1 @@
-# Sample-Django-REST-Framework-ModelViewSet
+# Sample-Django-REST-Framework (ModelViewSet)
